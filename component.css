@@ -1,0 +1,8 @@
+@media (max-width: 640px) {
+  .details-view .aircraft-card dl {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .details-view .aircraft-card .aircraft-actions button {
+    flex: 1; /* أزرار كاملة العرض */
+  }
+}

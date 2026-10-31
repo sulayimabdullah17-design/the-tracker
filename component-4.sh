@@ -1,0 +1,5 @@
+VITE_APP_ENV=production
+VITE_LOG_LEVEL=error
+VITE_ENABLE_DEVTOOLS=false
+VITE_GA_ID=G-XXXXXXXXXX
+VITE_SENTRY_DSN=https://xxx@sentry.io/xxx

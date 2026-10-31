@@ -1,0 +1,29 @@
+{
+  "ignores": [
+    "@types/*",
+    "autoprefixer",
+    "postcss",
+    "tailwindcss",
+    "tw-animate-css",
+    "eslint*",
+    "typescript",
+    "vite",
+    "@vitejs/plugin-react",
+    "rollup-plugin-visualizer",
+    "@babel/runtime"
+  ],
+  "skip-missing": false,
+  "specials": [
+    "eslint",
+    "prettier",
+    "vite",
+    "tailwindcss",
+    "typescript"
+  ],
+  "ignoreMatches": [
+    "tailwindcss",
+    "postcss",
+    "autoprefixer",
+    "tw-animate-css"
+  ]
+}
